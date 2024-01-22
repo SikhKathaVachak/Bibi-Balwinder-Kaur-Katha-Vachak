@@ -11,6 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
+    <p><img src="https://www.bibibalwinderkaur.com/wp-content/uploads/2024/01/Balwinder-Kaur-Katha-Vachak.jpg"/></p>
         <Header title="Name: Balwinder Kaur Sikh Gurbani Katha Vachak" />
         <p className="description">
 Address: Ward Number 13, 2444, Mohalla Vikas Nagar, Shahkot, Punjab 144702, India</p>
@@ -19,7 +20,6 @@ Phone: +918360802607</p>
 <p>Email: katha@bibibalwinderkaur.com</p>
 <p>Website: https://www.bibibalwinderkaur.com
         </p>
-          <p><img src="https://www.bibibalwinderkaur.com/wp-content/uploads/2024/01/Balwinder-Kaur-Katha-Vachak.jpg"/></p>
     <p><a href="https://twitter.com/SikhKathaVachak">Twitter</a></p>
     <p><a href="https://www.instagram.com/SikhKathaVachak">Instagram</a></p>
     <p><a href="https://www.facebook.com/SikhKathaVachak">Facebook</a></p>
