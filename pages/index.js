@@ -6,14 +6,18 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Bibi Balwinder Kaur Katha Vachak - Sikh Punjabi Katha Vachak India</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Name: Balwinder Kaur Sikh Gurbani Katha Vachak" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+Address: Ward Number 13, 2444, Mohalla Vikas Nagar, Shahkot, Punjab 144702, India</p>
+  <p>
+Phone: +918360802607</p>
+<p>Email: katha@bibibalwinderkaur.com</p>
+<p>Website: https://www.bibibalwinderkaur.com
         </p>
       </main>
 
