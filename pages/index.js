@@ -19,6 +19,14 @@ Phone: +918360802607</p>
 <p>Email: katha@bibibalwinderkaur.com</p>
 <p>Website: https://www.bibibalwinderkaur.com
         </p>
+          <p><img src="https://www.bibibalwinderkaur.com/wp-content/uploads/2024/01/Balwinder-Kaur-Katha-Vachak.jpg"/></p>
+    <p><a href="https://twitter.com/SikhKathaVachak">Twitter</a></p>
+    <p><a href="https://www.instagram.com/SikhKathaVachak">Instagram</a></p>
+    <p><a href="https://www.facebook.com/SikhKathaVachak">Facebook</a></p>
+    <p><a href="https://www.pinterest.com/SikhKathaVachak">Pinterest</a></p>
+    <p><a href="https://www.youtube.com/@SikhKathaVachak">YouTube</a></p>
+    <p><a href="https://vimeo.com/sikhkathavachak">Vimeo</a></p>
+    
       </main>
 
       <Footer />
