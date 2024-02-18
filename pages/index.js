@@ -16,7 +16,7 @@ export default function Home() {
         <p className="description">
 Address: Ward Number 13, 2444, Mohalla Vikas Nagar, Shahkot, Punjab 144702, India</p>
   <p>
-Phone: +918360802607</p>
+Phone: +916280016730</p>
 <p>Email: katha@bibibalwinderkaur.com</p>
 <p>Website: https://www.bibibalwinderkaur.com
         </p>
